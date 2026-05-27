@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32L1/STM32L151C_6-8-B_Ux:STM32L151C_6-8-B_Ux",
+  "name": "STM32L151C_6-8-B_Ux",
+  "library": "MCU_ST_STM32L1",
+  "file": "MCU_ST_STM32L1.kicad_symdir/STM32L151C_6-8-B_Ux.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M3 MCU, 32-128KB flash, 10-16KB RAM, 32 MHz, 1.65-3.6V, 37 GPIO, UFQFPN48",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32l151c6.pdf",
+  "keywords": "Arm Cortex-M3 STM32L1 STM32L151/152",
+  "footprint": "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32l1@master/parts/STM32L151C_6-8-B_Ux/",
+  "part_path": "parts/STM32L151C_6-8-B_Ux",
+  "symbol_file": "parts/STM32L151C_6-8-B_Ux/STM32L151C_6-8-B_Ux.kicad_sym",
+  "source_library": "MCU_ST_STM32L1.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:06.538Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32L1/STM32L152RBHxA:STM32L152RBHxA",
+  "name": "STM32L152RBHxA",
+  "library": "MCU_ST_STM32L1",
+  "file": "MCU_ST_STM32L1.kicad_symdir/STM32L152RBHxA.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M3 MCU, 128KB flash, 32KB RAM, 32 MHz, 1.65-3.6V, 50 GPIO, TFBGA64",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32l152rb-a.pdf",
+  "keywords": "Arm Cortex-M3 STM32L1 STM32L151/152",
+  "footprint": "Package_BGA:TFBGA-64_5x5mm_Layout8x8_P0.5mm",
+  "extends": "STM32L152R_6-8-B_HxA",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32l1@master/parts/STM32L152RBHxA/",
+  "part_path": "parts/STM32L152RBHxA",
+  "symbol_file": "parts/STM32L152RBHxA/STM32L152RBHxA.kicad_sym",
+  "source_library": "MCU_ST_STM32L1.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:07.097Z"
+}

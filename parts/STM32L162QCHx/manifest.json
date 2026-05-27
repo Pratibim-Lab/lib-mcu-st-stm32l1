@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32L1/STM32L162QCHx:STM32L162QCHx",
+  "name": "STM32L162QCHx",
+  "library": "MCU_ST_STM32L1",
+  "file": "MCU_ST_STM32L1.kicad_symdir/STM32L162QCHx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M3 MCU, 256KB flash, 32KB RAM, 32 MHz, 1.65-3.6V, 112 GPIO, UFBGA132",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32l162qc.pdf",
+  "keywords": "Arm Cortex-M3 STM32L1 STM32L162",
+  "footprint": "Package_BGA:UFBGA-132_7x7mm_Layout12x12_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32l1@master/parts/STM32L162QCHx/",
+  "part_path": "parts/STM32L162QCHx",
+  "symbol_file": "parts/STM32L162QCHx/STM32L162QCHx.kicad_sym",
+  "source_library": "MCU_ST_STM32L1.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:07.253Z"
+}

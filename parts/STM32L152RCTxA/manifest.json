@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32L1/STM32L152RCTxA:STM32L152RCTxA",
+  "name": "STM32L152RCTxA",
+  "library": "MCU_ST_STM32L1",
+  "file": "MCU_ST_STM32L1.kicad_symdir/STM32L152RCTxA.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M3 MCU, 256KB flash, 32KB RAM, 32 MHz, 1.65-3.6V, 51 GPIO, LQFP64",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32l152rc-a.pdf",
+  "keywords": "Arm Cortex-M3 STM32L1 STM32L151/152",
+  "footprint": "Package_QFP:LQFP-64_10x10mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32l1@master/parts/STM32L152RCTxA/",
+  "part_path": "parts/STM32L152RCTxA",
+  "symbol_file": "parts/STM32L152RCTxA/STM32L152RCTxA.kicad_sym",
+  "source_library": "MCU_ST_STM32L1.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:07.121Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32L1/STM32L151V_8-B_HxA:STM32L151V_8-B_HxA",
+  "name": "STM32L151V_8-B_HxA",
+  "library": "MCU_ST_STM32L1",
+  "file": "MCU_ST_STM32L1.kicad_symdir/STM32L151V_8-B_HxA.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M3 MCU, 64-128KB flash, 32KB RAM, 32 MHz, 1.65-3.6V, 83 GPIO, UFBGA100",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32l151v8-a.pdf",
+  "keywords": "Arm Cortex-M3 STM32L1 STM32L151/152",
+  "footprint": "Package_BGA:UFBGA-100_7x7mm_Layout12x12_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32l1@master/parts/STM32L151V_8-B_HxA/",
+  "part_path": "parts/STM32L151V_8-B_HxA",
+  "symbol_file": "parts/STM32L151V_8-B_HxA/STM32L151V_8-B_HxA.kicad_sym",
+  "source_library": "MCU_ST_STM32L1.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:06.773Z"
+}
